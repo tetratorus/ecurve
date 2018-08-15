@@ -1,6 +1,6 @@
 {
-  "name": "ecurve",
-  "version": "1.0.6",
+  "name": "ecurve-bn256",
+  "version": "1.0.7",
   "description": "Elliptic curve cryptography",
   "keywords": [
     "cryptography",
